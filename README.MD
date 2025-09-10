@@ -59,5 +59,5 @@ python cute_shooter.py
 ❤️ ผู้พัฒนา
 
 tana pittayatanadol
-
+tana.pittayatanadol@gmail.com
 ขอบคุณที่เล่นเกมนี้! หากชอบโปรเจกต์นี้ อย่าลืม ⭐ Star ที่ GitHub Repository ด้วยนะครับ
